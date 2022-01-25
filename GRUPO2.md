@@ -1,7 +1,7 @@
 ---
-title: "SCM y Desarrollo de Proveedores"
+title: " TENDENCIAS PRE Y POST PANDEMIA EN LAS TELCOS"
 author: "GRUPO 2"
-subtitle: Una oportunidad para la Industria 4.0 
+subtitle: Diversidad de servicios en las Telcos pre y post pandemia 
 output:
   html_document:
     theme: cosmo
@@ -16,7 +16,7 @@ output:
 ---
 
 
-## Trabajo Fial del Módulo
+## Trabajo Final del Módulo
 
 <h2>Maestría en Administración de Empresas </h2>
 
