@@ -119,5 +119,5 @@ Señala los artículos que más te han aportado inspiración
 * Cano, Emilio L., Moguerza, Javier M. and Redchuk, Andres. 2012. Six Sigma with R. Statistical Engineering for Process Improvement, Use R!, vol. 36. Springer, New York. https://www.springer.com/gp/book/9781461436515.Montgomery, DC (2008) Introduction to Statistical Quality Control (Sixth Edition). New York:Wiley&Sons
 
 
-Ultima vez que se modifico el archivo viernes 202201211931
+Ultima vez que se modifico el archivo viernes 202201242027
 
