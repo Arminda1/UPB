@@ -70,7 +70,7 @@ Trata de proponer una solución y pregúntate a ti mismo si la solución que enu
 
 
 
-### Resumen
+### Resumen hola
 
 Escribe esta parte del documento al finalizar el trabajo. 
 Limita esta parte a 200 palabras. 
