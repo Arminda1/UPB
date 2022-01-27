@@ -65,10 +65,9 @@ No olvides señala el nombre de los integrantes.
 
 ## Situación Problema
 
-Describe brevemente la situación problema o caso de estudio que desarrollarás. Justifica por qué puede resultar interesante para las empresas del sector continuar leyendo el trabajo.
-Trata de proponer una solución y pregúntate a ti mismo si la solución que enuncias podría solucionar (al menos parcialmente) el problema. En muchos artículos científicos esto se expresa como "Pregunta de Investigación" o "Hipótesis".
-
-
+Durante los últimos años se presentaron distintos eventos históricos en el mundo; esto provoco que diferentes sectores presenten variados comportamientos relacionados a sus tendencias e indicadores de crecimiento.
+En el caso particular de Bolivia, durante los últimos 5 años se presentaron distintos eventos político sociales y posteriormente la crisis sanitaria (debido a la pandemia); eventos que sin duda generaron efectos considerables en distintos rubros.
+En el presente articulo se realizo el desarrollo del estado del sector de telecomunicaciones en Bolivia, debido a los eventos mencionados.
 
 ### Resumen hola
 
