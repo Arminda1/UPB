@@ -94,6 +94,11 @@ Acorde proyecciones del Instituto Nacional de Estadista de Bolivia, el país con
 
 https://www.ine.gob.bo/index.php/censos-y-proyecciones-de-poblacion-sociales/
 
+En lo que respecta a las redes de telecomunicaciones móviles en el país, se tiene presencia de tres operadoras; la empresa nacional de telecomunicaciones ENTEL, y los operadores privados TIGO (miembro de la corporación MILLICOM) y Nuevatel (empresa que opera bajo el nombre comercial VIVA).
+
+
+
+
 
 
 
