@@ -87,7 +87,8 @@ Señala qué métodos utilizarás para comprobar si la hipótesis o pregunta de 
 Mira muy bien la forma en que escriben los artículos.
 
 
-## Marcos teóricos o métodos aplicables
+# Marcos teóricos o métodos aplicables
+## DIAGRAMA DE PARETO
 
 Acorde proyecciones del Instituto Nacional de Estadista de Bolivia, el país contaría con una población aproximada de 12 millones de habitantes para el año 2022; donde mas del 70% de la población se encontraría distribuida en tres de sus nueve departamentos. Con el departamento de Santa Cruz que albergaría el 28.5%, La Paz el 25.4% y del departamento de Cochabamba con un 17.6% de la población.
 
