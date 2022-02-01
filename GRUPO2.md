@@ -1,5 +1,5 @@
 ---
-title: " TENDENCIAS PRE Y POST PANDEMIA EN LAS TELCOS"
+title: " TENDENCIAS PRE Y POST PANDEMIA EN LAS EMPRESAS DE TELEFONIA EN BOLIVIA"
 author: "GRUPO 2"
 subtitle: Diversidad de servicios en las Telcos pre y post pandemia 
 output:
@@ -27,7 +27,6 @@ output:
 
 
 # TENDENCIAS PRE Y POST PANDEMIA EN LAS TELCOS
-## aqui podria poner un subtitulo
 
 ## Nombre del Grupo
 
@@ -35,7 +34,7 @@ GRUPO 2
 
 ## Integrantes
 
-No olvides señala el nombre de los integrantes.
+Los integrantes que forman parte del grupo son:
 
 1. Arminda Caero <armicaero@gmail.com>
 2. Emily Herbas <emily.herbas.l@gmail.com>
