@@ -22,7 +22,7 @@ output:
 
 <h3>Supply Chain Management  </h3>
 <h2> Una puerta de entrada para Industria 4.0 en latinoamérica </h2>
-![UDS](image/logo.png)
+![UDS](C:\Users\arcaero\Desktop\Arminda\Maestria Telecom\M16\Trabajo Final\Imagenes\Antenas.jpg)
 <hr>
 
 
@@ -34,7 +34,7 @@ GRUPO 2
 
 ## Integrantes
 
-Los integrantes que forman parte del grupo son:
+Los integrantes que forman parte del grupo 2 son:
 
 1. Arminda Caero <armicaero@gmail.com>
 2. Emily Herbas <emily.herbas.l@gmail.com>
