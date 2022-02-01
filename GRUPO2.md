@@ -43,15 +43,15 @@ Los integrantes que forman parte del grupo 2 son:
 
 # Procedimientos:
 
-* Los alumnos se organizarán en grupos de 4 alumnos (número aproximado).
+** Los alumnos se organizarán en grupos de 4 alumnos (número aproximado).
 
 * Deberán señalar en todos los documentos (pdf, html y Rmd) el nombre del grupo , apellido(s) y nombre(s) de todos los integrantes, así como los correos (ver ejemplo en la sección "Integrantes")
 
-* Un alumno de cada grupo creará una carpeta en GitHub que compartirá con sus compañeros y profesores.
+** Un alumno de cada grupo creará una carpeta en GitHub que compartirá con sus compañeros y profesores.
 
-* Utilizarán esta plantilla para elaborar la monografía con la que serán evaluados.
+** Utilizarán esta plantilla para elaborar la monografía con la que serán evaluados.
 
-* La plantilla debe ser intervenida por todos los miembros del equipo en un repositorio de GitHub. Si el grupo no tiene experiencia o esta tarea lo supera deberá consultar a los profesores.
+** La plantilla debe ser intervenida por todos los miembros del equipo en un repositorio de GitHub. Si el grupo no tiene experiencia o esta tarea lo supera deberá consultar a los profesores.
 
 * Tejer (knit) el documento Rmd y presentarlo en la consulta previa a la entrega (Fecha Límite 31 Enero)
 
