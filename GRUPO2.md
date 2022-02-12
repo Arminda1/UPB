@@ -1,5 +1,5 @@
 ---
-title: " TENDENCIAS PRE Y POST PANDEMIA EN LAS EMPRESAS DE TELEFONIA EN BOLIVIA"
+title: " TENDENCIAS PRE Y POST PANDEMIA EN LAS EMPRESAS DE TELEFONIA MOVIL EN BOLIVIA"
 author: "GRUPO 2"
 subtitle: Diversidad de servicios en las Telcos pre y post pandemia 
 output:
