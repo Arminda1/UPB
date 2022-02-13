@@ -26,7 +26,7 @@ output:
 <hr>
 
 
-# TENDENCIAS PRE Y POST PANDEMIA EN LAS TELCOS
+# TELECOMUNICACIONES & COVID EN BOLIVIA
 
 ## Nombre del Grupo
 
@@ -90,12 +90,32 @@ Mira muy bien la forma en que escriben los artículos.
 # Marcos teóricos o métodos aplicables
 ## DIAGRAMA DE PARETO
 
-Acorde proyecciones del Instituto Nacional de Estadista de Bolivia, el país contaría con una población aproximada de 12 millones de habitantes para el año 2022; donde mas del 70% de la población se encontraría distribuida en tres de sus nueve departamentos. Con el departamento de Santa Cruz que albergaría el 28.5%, La Paz el 25.4% y del departamento de Cochabamba con un 17.6% de la población.
 
-https://www.ine.gob.bo/index.php/censos-y-proyecciones-de-poblacion-sociales/
 
-En lo que respecta a las redes de telecomunicaciones móviles en el país, se tiene presencia de tres operadoras; la empresa nacional de telecomunicaciones ENTEL, y los operadores privados TIGO (miembro de la corporación MILLICOM) y Nuevatel (empresa que opera bajo el nombre comercial VIVA).
+Acorde proyecciones del Instituto Nacional de Estadista de Bolivia, el país contaría con una población aproximada de 12 millones de habitantes para el año 2022; donde mas del 70% de la población se encontraría distribuida (principalmente), en tres de sus nueve departamentos. Donde el departamento de Santa Cruz albergaría aproximadamente el 28.5%, La Paz el 25.4% y del departamento de Cochabamba con un 17.6% de la población.
 
+
+Insertar .csv de Poblacion.
+Fuente: https://www.ine.gob.bo/index.php/censos-y-proyecciones-de-poblacion-sociales/
+
+En lo que respecta a las redes de telecomunicaciones móviles en el país, se tiene presencia de tres operadoras principales; la empresa nacional de telecomunicaciones ENTEL, y los operadores privados TIGO (miembro de la corporación MILLICOM) y Nuevatel (empresa que opera bajo el nombre comercial VIVA).
+
+En relación a su participación en el marcado, acorde una publicación realizada por el diario El Deber (basado en un informe brindado por la calificadora de reisgo Pacific Credit Rating), a septiemnre del año 2019 la empresa ENTEL contaba con una participación del 45,4%, TIGO contaba con una participación del mercado del 37,6% y Nuevatel con el restante 16,9%.
+
+Insertar .csv de participacion
+Fuente: https://eldeber.com.bo/economia/telefonicas-mantienen-dinamismo-pese-a-desaceleracion-economica_161123
+
+Las consecuencias del COVID-19 cambiaron en distintos aspectos el uso (hasta entonces habituales) del consumo de productos y servicios por parte de la poblacion a nivel mundial.
+En lo particular, en Bolivia en el sector de Telecomunicaciones y mediante el Gobierno Central en mayo del año 2020 se promulgo el Decreto Supremo Nro 4250; estableciendo distintos escenarios en beneficio del usuario bajo el el nombre "Mantengamonos Conectados", donde se resaltaron los sigueintes benedicios:
+
+
+
+
+
+se establecio el Decreto Supremo 
+
+
+un esturio realizado por la 
 
 
 
