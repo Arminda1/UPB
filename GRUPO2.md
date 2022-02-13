@@ -101,7 +101,7 @@ Fuente: https://www.ine.gob.bo/index.php/censos-y-proyecciones-de-poblacion-soci
 
 En lo que respecta a las redes de telecomunicaciones móviles en el país, se tiene presencia de tres operadoras principales; la empresa nacional de telecomunicaciones ENTEL, y los operadores privados TIGO (miembro de la corporación MILLICOM) y Nuevatel (empresa que opera bajo el nombre comercial VIVA).
 
-En relación a su participación en el marcado, acorde una publicación realizada por el diario El Deber (basado en un informe brindado por la calificadora de riesgo Pacific Credit Rating), a septiembre del año 2019 la empresa ENTEL contaba con una participación del 45,4%, la operadora TIGO con una participación de 37,6% y Nuevatel con el restante 16,9%.
+Acorde una publicación realizada por el diario El Deber (basado en un informe brindado por la calificadora de riesgo Pacific Credit Rating), a septiembre del año 2019 la participación del marcado correspondiente a la empresa ENTEL contaba con una participación aproximada del 45,4%, la operadora TIGO con una participación de 37,6% y Nuevatel con el restante 16,9%.
 
 Insertar .csv de participación
 
