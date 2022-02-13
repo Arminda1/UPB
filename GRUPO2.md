@@ -92,6 +92,15 @@ Mira muy bien la forma en que escriben los artículos.
 
 
 
+
+
+
+
+
+
+
+## Experimentación
+
 Acorde proyecciones del Instituto Nacional de Estadista de Bolivia, el país contaría con una población aproximada de 12 millones de habitantes para el año 2022; donde mas del 70% de la población se encontraría distribuida (principalmente), en tres de sus nueve departamentos. Donde el departamento de Santa Cruz albergaría aproximadamente el 28.5%, La Paz el 25.4% y del departamento de Cochabamba con un 17.6% de la población.
 
 
@@ -127,18 +136,6 @@ Parte de estos factores mas el decremento del uso de algunos servicios por parte
 
 
 Insertar .csv de Evolución de los ingresos netos.
-
-
-
-
-
-
-## Experimentación
-
-Aplica los métodos que seleccionaste a los datos que tienes.
-Construye resultados numéricos.
-Presenta gráficos
-Si fuese necesario elabora una infografía con todo el material.
 
 
 ## Interpretación de resultados
