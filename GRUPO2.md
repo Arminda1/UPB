@@ -90,13 +90,47 @@ Mira muy bien la forma en que escriben los artículos.
 # Marcos teóricos o métodos aplicables
 ## DIAGRAMA DE PARETO
 
+El Diagrama de Pareto, es una técnica gráfica sencilla para clasificar aspectos en orden de mayor a menor  frecuencia. Está basado en el principio de Pareto.
 
+Este diagrama, también es llamado curva cerrada o Distribución A-B-C, es una gráfica para organizar datos de forma que estos queden en orden descendente, de izquierda a derecha y separados por barras.
 
+Este diagrama:
 
+* Permite asignar un orden de prioridades.
+* Permite mostrar gráficamente el principio de Pareto (pocos vitales, muchos triviales), es decir, que hay muchos problemas sin importancia frente a unos pocos muy importantes. 
+Mediante la gráfica colocamos los «pocos que son vitales» a la izquierda y los «muchos triviales» a la derecha.
+* Facilita el estudio de las fallas en las industrias o empresas comerciales, así como fenómenos sociales o naturales psicosomáticos.
+Hay que tener en cuenta que tanto la distribución de los efectos como sus posibles causas no es un proceso lineal, sino que el 20% de las causas totales hace que sean originados el 80% de los efectos y rebotes internos del pronosticado.
 
+El principal uso que tiene el elaborar este tipo de diagrama es para poder establecer un orden de prioridades en la toma de decisiones dentro de una organización. Evaluar todas las fallas, saber si se pueden resolver o mejor evitarlas.
 
+### ¿Qué es el principio de Pareto y quién es Pareto?
+El principio de Pareto es también conocido como la regla del 80-20, distribución A-B-C, ley de los pocos vitales o principio de escasez del factor.
 
+Recibe uno de sus nombres en honor a Vilfredo Pareto, quien lo enunció por primera vez,  basándose en el denominado conocimiento empírico. Estudió que la gente en su sociedad se dividía naturalmente entre los «pocos de muchos» y los «muchos de poco»; se establecían así dos grupos de proporciones 80-20 tales que el grupo minoritario, formado por un 20 % de población, ostentaba el 80 % de algo y el grupo mayoritario, formado por un 80 % de población, el 20 % de ese mismo algo.
 
+En concreto, Pareto estudió la propiedad de la tierra en Italia y lo que descubrió fue que el 20 % de los propietarios poseían el 80 % de las tierras, mientras que el restante 20 % de los terrenos pertenecía al 80 % de la población restante.
+
+### ¿Cuándo utilizar un diagrama de Pareto?
+Para analizar los datos sobre la frecuencia de problemas o de causas en un proceso.
+Cuando son muchos problemas o causas y se desea centrarse en los más importantes.
+Cuando se desea analizar las causas de un problema enfocándose en sus componentes específicos.
+Para comunicarse con otros a través de datos (de manera visual).
+
+### ¿Cómo se hace un diagrama de Pareto?
+a) Seleccionar los aspectos que se van a analizar. ¿Cuál es el problema y las causas que se van a tratar?
+
+b) Seleccionar la unidad de medida para el análisis: la cantidad de ocurrencias, los costos u otra medida de influencia.
+
+c) Seleccionar el período de tiempo para el análisis de los datos, por ejemplo: un ciclo de trabajo, un día completo, una semana, etc.
+
+d) Relacionar los aspectos de izquierda a derecha en el eje horizontal en el orden de magnitud decreciente de la unidad de medida. Las categorías que contienen la menor cantidad de aspectos pueden combinarse en «otra» categoría, la cual se debe colocar en la extrema derecha).
+
+e) Encima de cada aspecto, se dibuja un rectángulo cuya altura represente la magnitud de la unidad de medida para cada aspecto.
+
+f) Construir la línea de frecuencia acumulativa sumando las magnitudes de cada aspecto de izquierda a derecha.
+
+g) Utilizar el Diagrama de Pareto para identificar los aspectos más importantes para el mejoramiento de la calidad.
 
 
 ## Experimentación
