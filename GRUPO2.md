@@ -95,34 +95,42 @@ Mira muy bien la forma en que escriben los artículos.
 Acorde proyecciones del Instituto Nacional de Estadista de Bolivia, el país contaría con una población aproximada de 12 millones de habitantes para el año 2022; donde mas del 70% de la población se encontraría distribuida (principalmente), en tres de sus nueve departamentos. Donde el departamento de Santa Cruz albergaría aproximadamente el 28.5%, La Paz el 25.4% y del departamento de Cochabamba con un 17.6% de la población.
 
 
-Insertar .csv de Poblacion.
+Insertar .csv de Población.
+
 Fuente: https://www.ine.gob.bo/index.php/censos-y-proyecciones-de-poblacion-sociales/
 
 En lo que respecta a las redes de telecomunicaciones móviles en el país, se tiene presencia de tres operadoras principales; la empresa nacional de telecomunicaciones ENTEL, y los operadores privados TIGO (miembro de la corporación MILLICOM) y Nuevatel (empresa que opera bajo el nombre comercial VIVA).
 
-En relación a su participación en el marcado, acorde una publicación realizada por el diario El Deber (basado en un informe brindado por la calificadora de reisgo Pacific Credit Rating), a septiemnre del año 2019 la empresa ENTEL contaba con una participación del 45,4%, TIGO contaba con una participación del mercado del 37,6% y Nuevatel con el restante 16,9%.
+En relación a su participación en el marcado, acorde una publicación realizada por el diario El Deber (basado en un informe brindado por la calificadora de riesgo Pacific Credit Rating), a septiembre del año 2019 la empresa ENTEL contaba con una participación del 45,4%, la operadora TIGO con una participación de 37,6% y Nuevatel con el restante 16,9%.
 
-Insertar .csv de participacion
+Insertar .csv de participación
+
 Fuente: https://eldeber.com.bo/economia/telefonicas-mantienen-dinamismo-pese-a-desaceleracion-economica_161123
 
-Las consecuencias del COVID-19 cambiaron en distintos aspectos el uso (hasta entonces habituales) del consumo de productos y servicios por parte de la poblacion a nivel mundial.
-En lo particular, en Bolivia en el sector de Telecomunicaciones y mediante el Gobierno Central en mayo del año 2020 se promulgo el Decreto Supremo Nro 4250; estableciendo distintos escenarios en beneficio del usuario bajo el el nombre "Mantengamonos Conectados", donde se resaltaron los sigueintes benedicios:
+Las consecuencias del COVID-19 cambiaron en distintos aspectos el uso (hasta entonces habituales) del consumo de productos y servicios por parte de la población a nivel mundial.
+En lo particular; en Bolivia, el sector de Telecomunicaciones fue parte de los sectores que mediante una serie de promulgaciones de Decretos Supremos (D.S.) de parote del Gobierno Central tuvo que cumplir y asumir una serie de mandatos. En mayo del año 2020 se promulgo el D.S. Nro. 4250 que tenia como objetivo establecer condiciones y medidas para la continuidad de los servicios de telecomunicaciones y postales, durante la cuarentena nacional, cuarentena condicionada y cuarentena dinámica. Estableciendo distintos escenarios en beneficio del usuario, donde entre otros artículos emitidos se resaltaron los siguientes beneficios para los usuarios que presentaron distintas dificultades en el pago por servicios:
+
+ - Se estableció el Servicio Gratuito "Mantengámonos Conectados" para telefonía fija, móvil, distribución de señales y acceso a internet.
+ - No se realizó el corte del servicio a los clientes post-pago o pre-pago con deudas.
+ - Para la red móvil (telefonía móvil e internet móvil) se brindo el servicio de WhatsApp ilimitado (solo mensajería). Llamadas ilimitadas a dos números, uso de 10 minutos libres, consumo de 500 MB y 10 SMS sin costo.
+ - Para el servicio de distribución de señales (Televisión por suscripción) se brindó el servicio ce emisión gratuito para toda la grilla de canales nacionales y cuatro canales internacionales.
+ - Para el servicio de acceso a internet fijo se brindó al menos una velocidad de 1 Mbps o el 10% de la capacidad contratada.
+
+En este mismo decreto, se declaro la modificación del Articulo Nro. 36 del Decreto Supremo Nro. 4206; correspondiente al capítulo IV (Telecomunicaciones y tecnologías de información), deonde se instruyo:
+
+ - “ ARTÍCULO 36.- (PROHIBICIÓN DE CORTE DE LOS SERVICIOS DE TELECOMUNICACIONES Y TECNOLOGÍAS DE INFORMACIÓN).
+I. Se prohíbe a los operadores y proveedores de servicios de telecomunicaciones y tecnologías de información, el corte del servicio y la imposición de sanciones a los usuarios por falta de pago por el tiempo que dure la declaratoria de emergencia por la pandemia del Coronavirus (COVID-19).
+II. Los operadores o proveedores de servicios de telecomunicaciones y tecnologías de información, a solicitud de los usuarios, deberán generar planes de pago de hasta seis (6) meses.”
+
+Parte de estos factores mas el decremento del uso de algunos servicios por parte de las operadoras (como ser telefonia fija, servicios de larga distancia, etc), provocaron que el sector presentara un decremento en la Evolución de los Ingresos Netos acorde los registros de la Memoria Institucional 2020 publicada por el ente regulador ATT (Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes):
+
+
+
+Insertar .csv de Evolución de los ingresos netos.
 
 
 
 
-
-se establecio el Decreto Supremo 
-
-
-un esturio realizado por la 
-
-
-
-
-
-
-Explica algo de la historia del o de los métodos que resulten elegidos. Comenta si los has visto en libros, casos de estudio, si te los sugirió o comentó otro profesor, etc.
 
 
 ## Experimentación
@@ -135,11 +143,11 @@ Si fuese necesario elabora una infografía con todo el material.
 
 ## Interpretación de resultados
 
-En esta parte señala claramente las cosas que no eran evidentes y que se han puesto de manifiesto con la experimentación.
-Trata de comentar situaciones del contexto que no fueron explicadas en la **Situación Problema** que están influyendo en los gráficos y resultados obtenidos.
+Con lo citado y mencionado; se puede evidenciar que el decremento de ingresos en el sector de telecomunicaciones en Bolivia a causa de la crisis social, política y debido a la pandemia Covod-19; presenta un efecto similar al de los ingresos en relación a la generación de recursos. 
 
-Responde a la pregunta de investigación y di si era verdadero o falso lo que pensabas al principio.
+Al ser una sector basado en una serie de etapas que implica la contratación de distintos rubros para la puesta en servicio de sus redes como ser: alquiler de espacios para infraestructura, construcción de obras civiles, provisión de equipamiento especializado en transmisión y telecomunicaciones, tendido de fibra óptica, provisión de servicios de instalación, provisión de servicios de configuración de equipamiento, provisión de servicios de mantenimiento operativo, etc.; no cabe duda que el impacto económico es considerable a distintos niveles.
 
+El golpe económico es sin duda considerable en el sector, reflejando el recorte de personal, generando políticas de austeridad y ahorro y creando la urgente necesidad del planteamiento de nuevas estrategias de fidelización, retención y captación de clientes potenciales con la finalidad de mantener la operatividad de sus operaciones.
 
 ## Referencias Bibliográficas
 
