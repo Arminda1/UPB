@@ -187,8 +187,8 @@ Señala todos los enlaces en los que están los datos que utilizas.
 Señala los artículos que más te han aportado inspiración
 
 * Cano, Emilio L., Moguerza, Javier M. and Redchuk, Andres. 2012. Six Sigma with R. Statistical Engineering for Process Improvement, Use R!, vol. 36. Springer, New York. https://www.springer.com/gp/book/9781461436515.Montgomery, DC (2008) Introduction to Statistical Quality Control (Sixth Edition). New York:Wiley&Sons
-* https://datos.bancomundial.org/indicator/IT.CEL.SETS?end=2020&locations=BO&start=1975&view=chart
-* 
+* https://datos.bancomundial.org/indicator/IT.CEL.SETS?end=2020&locations=BO&start=1975&view=chart Fecha:13-02-2022
+* https://aprendiendocalidadyadr.com/diagrama-de-pareto/ Fecha:13-02-2022
 
 
 Ultima vez que se modifico el archivo viernes 202201312127
